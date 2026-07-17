@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Improvement Assistant",
+  "description": "A smart, AI-powered assistant to analyze resumes, calculate scores, check ATS compatibility, match against job descriptions, and get grammar and keyword improvement suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

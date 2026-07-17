@@ -1,2 +1,20 @@
-# AI-Resume-Improvement-Assistance
-AI-powered full-stack resume coach &amp; ATS checker built with React, Express, and Gemini 3.5. Analyze resumes, estimate ATS scores, identify missing skills, compare against job descriptions for match rates, and generate optimized metric-driven bullet rewrites. 
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/d96a71bb-a623-4049-9b58-100bad60ce5b
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
